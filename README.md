@@ -39,3 +39,17 @@ I enjoy combining hands-on technical exploration with product thinking and comme
 ---
 
 *Exploring intelligence. Engineering systems. Building what matters.*
+
+
+## Featured Work
+
+### Traco — AI-Powered Coordination Platform
+
+Designed and built a mobile and web platform combining structured workflows with conversational AI to simplify the coordination of schedules, commitments and events.
+
+My engineering work spans agent architecture, context engineering, model orchestration, AI evaluation, security and production reliability.
+
+**Engineering focus:** Stateful agents · Tool orchestration · Context construction · AI evaluation · Enterprise architecture
+
+[Engineering Case Study](https://github.com/gomayur/traco-engineering) · [Live Product](https://traco.app)
+
